@@ -1,0 +1,36 @@
+#EXTM3U
+
+# —————————————————————————————
+# 🇧🇷 Canais de TV ao vivo em português (via iptv-org)
+# —————————————————————————————
+0-1https://iptv-org.github.io/iptv/countries/br.m3u 
+
+# —————————————————————————————
+# 🇵🇹 Canais de TV e rádios oficiais em português (via M3UPT)
+# —————————————————————————————
+0-2https://m3upt.com/iptv 
+
+# —————————————————————————————
+# 🎧 Rádios online brasileiras (incluir manualmente caso queira)
+# —————————————————————————————
+#EXTINF:-1 tvg-name="Jovem Pan" group-title="Rádios",Jovem Pan
+0-3http://streaming.jovempan.com.br/jovempan 
+#EXTINF:-1 tvg-name="CBN" group-title="Rádios",CBN
+0-4http://cbn.global.radio 
+#EXTINF:-1 tvg-name="Globo FM" group-title="Rádios",Globo FM
+0-5http://radioglorio.globo.br/fm 
+
+# —————————————————————————————
+# 🎥 Filmes clássicos e domínio público
+# (exemplos; você pode adicionar mais do Internet Archive)
+# —————————————————————————————
+#EXTINF:-1 tvg-name="Night of the Living Dead" group-title="Domínio Público",Night of the Living Dead
+0-6https://archive.org/download/NightOfTheLivingDead1968/NightOfTheLivingDead_512kb.mp4 
+#EXTINF:-1 tvg-name="O Gabinete do Dr. Caligari" group-title="Domínio Público",O Gabinete do Dr. Caligari
+0-7https://archive.org/download/GabineteCaligari/GabineteCaligari_512kb.mp4 
+
+# —————————————————————————————
+# 🌌 Canais internacionais educativos ao vivo
+# —————————————————————————————
+#EXTINF:-1 tvg-name="NASA TV" group-title="Educação",NASA TV
+0-8https://www.nasa.gov/multimedia/nasatv/NTV-Public-Direct.mp4
