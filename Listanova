@@ -1,56 +1,58 @@
 #EXTM3U
 
 ########## 📺 TV AO VIVO BRASIL ##########
-0-1https://iptv-org.github.io/iptv/countries/br.m3u    # ~218 canais brasileiros  2
+#EXTINF:-1 tvg-name="TVs Brasil (iptv-org)" group-title="TV Brasil",TVs Brasil
+https://iptv-org.github.io/iptv/countries/br.m3u
 
 ########## 📺 TV + RÁDIO PORTUGAL-BRASIL ##########
-455-0https://raw.githubusercontent.com/LITUATUI/M3UPT/main/m3upt/PT-BR.m3u    # ~17 estações portuguesas  4
+#EXTINF:-1 tvg-name="TV+Rádio PT-BR" group-title="Portugal-Brasil",PT-BR
+https://raw.githubusercontent.com/LITUATUI/M3UPT/main/m3upt/PT-BR.m3u
 
 ########## 🎓 TV EDUCATIVA BRASILEIRA ##########
 #EXTINF:-1 tvg-name="TV Escola" group-title="Educação",TV Escola
-641-0https://tvescola.org.br/assista     6
+https://tvescola.org.br/assista
 
 #EXTINF:-1 tvg-name="Canal Educação" group-title="Educação",Canal Educação
-824-0https://www.gov.br/mec/pt-br/canal-educacao/videos/transmissao-ao-vivo     8
+https://www.gov.br/mec/pt-br/canal-educacao/videos/transmissao-ao-vivo
 
 ########## 🎧 RÁDIOS BRASILEIRAS ##########
 #EXTINF:-1 tvg-name="Jovem Pan" group-title="Rádios",Jovem Pan
-1008-0http://streaming.jovempan.com.br/jovempan 
+http://streaming.jovempan.com.br/jovempan
 
 #EXTINF:-1 tvg-name="CBN" group-title="Rádios",CBN
-1008-1http://cbn.globoradio.globo.com/stream/cbnsp 
+http://cbn.globoradio.globo.com/stream/cbnsp
 
 #EXTINF:-1 tvg-name="Globo FM" group-title="Rádios",Globo FM
-1008-2http://radioglorio.globo.br/fm 
+http://radioglorio.globo.br/fm
 
 ########## 🎬 FILMES (DOMÍNIO PÚBLICO) ##########
 #EXTINF:-1 tvg-name="Metropolis (1927)" group-title="Filmes",Metropolis
-1008-3https://archive.org/download/Metropolis1927/Metropolis_512kb.mp4 
+https://archive.org/download/Metropolis1927/Metropolis_512kb.mp4
 
 #EXTINF:-1 tvg-name="Plan 9 from Outer Space (1959)" group-title="Filmes",Plan 9 from Outer Space
-1008-4https://archive.org/download/Plan9FromOuterSpace/Plan_9.mp4 
+https://archive.org/download/Plan9FromOuterSpace/Plan_9.mp4
 
 #EXTINF:-1 tvg-name="Night of the Living Dead (1968)" group-title="Filmes",Night of the Living Dead
-1008-5https://archive.org/download/NightOfTheLivingDead1968/NightOfTheLivingDead_512kb.mp4 
+https://archive.org/download/NightOfTheLivingDead1968/NightOfTheLivingDead_512kb.mp4
 
 #EXTINF:-1 tvg-name="O Gabinete do Dr. Caligari (1920)" group-title="Filmes",O Gabinete do Dr. Caligari
-1008-6https://archive.org/download/GabineteCaligari/GabineteCaligari_512kb.mp4 
+https://archive.org/download/GabineteCaligari/GabineteCaligari_512kb.mp4
 
-########## 🌌 CANAIS INTERNACIONAIS (LÍNGUA PORTUGUESA) ##########
+########## 🌍 CANAIS INTERNACIONAIS EM PORTUGUÊS ##########
 #EXTINF:-1 tvg-name="NASA TV" group-title="Educação",NASA TV
-1008-7https://www.nasa.gov/multimedia/nasatv/NTV-Public-Direct.mp4 
+https://www.nasa.gov/multimedia/nasatv/NTV-Public-Direct.mp4
 
 #EXTINF:-1 tvg-name="RTP África" group-title="Internacional",RTP África
-1008-8https://www.rtp.pt/play/direto/rtpafrica     18
+https://www.rtp.pt/play/direto/rtpafrica
 
 #EXTINF:-1 tvg-name="SIC Internacional África" group-title="Internacional",SIC Internacional África
-2397-0https://www.rtp.pt/play/direto/rtpafrica     20
+https://www.rtp.pt/play/direto/rtpafrica
 
 #EXTINF:-1 tvg-name="TVI África" group-title="Internacional",TVI África
-2563-0https://www.cxtv.com.br/tv-ao-vivo/tvi-africa     22
+https://www.cxtv.com.br/tv-ao-vivo/tvi-africa
 
 #EXTINF:-1 tvg-name="TPA 1 (Angola)" group-title="Internacional",TPA 1
-2706-0https://www.livehdtv.com/embed/tpa-1/     24
+https://www.livehdtv.com/embed/tpa-1/
 
 #EXTINF:-1 tvg-name="TV Zimbo (Angola)" group-title="Internacional",TV Zimbo
-2840-0https://www.cxtv.com.br/tv-ao-vivo/tv-zimbo     26
+https://www.cxtv.com.br/tv-ao-vivo/tv-zimbo
