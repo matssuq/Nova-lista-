@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="UniTVnet VOD" tvg-logo="" group-title="Filmes", UniTVnet VOD
-http://vddclocd.kmj51gtf.com/slb/v11/vod?auth=9BJ0WQRM_zKusWORmEb5svG_0OQRNIBrKQIZWHGcTB...
+
+#EXTINF:-1 tvg-id="canalhd" tvg-name="Canal HD IPTV" group-title="Canais IPTV", Canal HD
+http://208.115.229.51:21541/live/pt_ahj9dj018hgja91331_1080p_264.m3u8
