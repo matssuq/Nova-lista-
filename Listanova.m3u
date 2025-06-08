@@ -1,4 +1,3 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="unitvnet.stream" tvg-name="UniTVnet Canal 1" group-title="Testes",UniTVnet Canal 1
-http://128.14.216.66:12407
+#EXTINF:-1 tvg-id="unitv" tvg-name="UniTV" tvg-logo="" group-title="Canais",UniTV
+http://128.14.216.66:12407/vod/7A9C067957854552B89D29084AFOABBD_media.mp4?content_auth2=/vod/%3Ftag%3Dslb&host=128.14.216.66:12407&app_id=3Duvnetmob&trans_id=3DQGlpDFFTitSx_szg9GPpgimDT&app_version=3D10504&client_ip=3D45.170.19.42&dev_id=3Da67d5489f53950535febed2a9cf26953&auth_id=3D449886962_uvnetmob__0%26user_id%3D449886962&expired=3D1749355668&token=3D52d9567d1b4924c3b47694475535c8dc&content_license2=tag%3Dslb&scheme=3Dslb&app_id=3Duvnetmob&media_code=3D7A9C067957854552B89D29084AFOABBD
