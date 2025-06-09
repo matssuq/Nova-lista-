@@ -1,4 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="canalhd" tvg-name="Canal HD IPTV" group-title="Canais IPTV", Canal HD
-http://208.115.229.51:21541/live/pt_ahj9dj018hgja91331_1080p_264.m3u8
+#EXTINF:-1 tvg-id="filme1" tvg-name="Filme HD" group-title="Filmes",Filme HD
+http://vddclocd.kmj51gtf.com:80/vod/B2381BC821BC8227F49B3A69D4541BAD1319C_media.mp4
+
+#EXTINF:-1 tvg-id="canal1" tvg-name="Canal HD Ao Vivo" group-title="Canais Ao Vivo",Canal HD Ao Vivo
+http://208.115.229.51:21541/live/pt_ahj9dj018ghja91331_1080p_264.m3u8
+
+#EXTINF:-1 tvg-id="trecho1" tvg-name="Trecho 1" group-title="Clipes",Trecho 1
+http://208.115.229.51:21541/live/pt_ahj9dj018ghja91331_1080p_264_shisui_301466041.ts
+
+#EXTINF:-1 tvg-id="trecho2" tvg-name="Trecho 2" group-title="Clipes",Trecho 2
+http://208.115.229.51:21541/live/pt_ahj9dj018ghja91331_1080p_264_shisui_301470841.ts
